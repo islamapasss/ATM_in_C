@@ -2,5 +2,9 @@
 
 This repository will contain all the files regarding the ATM Application C Project.
 
-###Brief
-ATM Machine System used for logging into an exist user’s Bank accounts with their ID and the Password for multiple actions deposit , withdraw and Money Transfer.
+
+The following link is a project report that contains all the deliverables as mentioned in the RUBRIC!
+
+PAYMENT APPLICATION DELIVERABLES:
+
+
